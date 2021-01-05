@@ -1,0 +1,24 @@
+.input {
+  width: 100%;
+}
+
+h2 {
+  margin: 10px 0px 10px 0px;
+}
+
+.item {
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+}
+
+.text {
+  margin-left: 5px;
+}
+
+button {
+  background-color: gray;
+  color: white;
+}
